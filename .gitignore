@@ -1,0 +1,21 @@
+# Ignore OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node/npm
+node_modules/
+npm-debug.log
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# OneDrive temp
+~$*
